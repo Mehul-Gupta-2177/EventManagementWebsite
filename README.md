@@ -1,2 +1,1 @@
-# EventManagementWebsite
-A prototype for an Even management Website
+# CS20-Final-Project
