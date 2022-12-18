@@ -1,1 +1,1 @@
-# CS20-Final-Project
+#Prototype for an Event Management Website
